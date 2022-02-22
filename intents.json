@@ -1,0 +1,23 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hi","hey","hello","good day","Greetings","How are you?"],
+    "response":["Hello!","Hey!","What can I do for you","How can I help?","How is the great 5g?"]
+},
+{"tag": "Goodbye",
+    "patterns": ["bye","have a good","see you","good day","take care"],
+    "response":["see you","later","Dont forget to chech out our new promotions","would you like to try our survey?"]
+},
+{"tag": "age",
+    "patterns": ["How old are you?","what is your age","age","How are you?"],
+    "response":["I am 22 years old","22!"]
+},
+{"tag": "shop",
+    "patterns": ["pay a bill","payment arrangement","pay phone","good day","Greetings","How are you?"],
+    "response":["debit or credit"]
+},
+{"tag": "hours",
+    "patterns": ["hi","hey","hello","good day","Greetings","How are you?"],
+    "response":["all day every day"]
+}
+
+]}
